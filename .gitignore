@@ -1,0 +1,49 @@
+# Qt生成的文件
+build/
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qm
+moc_*
+ui_*
+qrc_*
+Makefile*
+*-build-*
+
+# IDE相关文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 编译产物
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# 系统文件
+*.bak
+*.old
+*.backup
+
+# 配置文件
+*.ini
+*.conf
+
+# 其他
+.cache/
